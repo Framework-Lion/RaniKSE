@@ -164,6 +164,8 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+    editor:
+      preview: false
   - name: extra_cms_linking
     label: Extra CMS Linkings
     folder: cms/extra-cms-linking
@@ -204,6 +206,8 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+    editor:
+      preview: false
   - name: marketing_requests
     label: Marketing Requests
     folder: cms/marketing-requests
@@ -279,6 +283,8 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+    editor:
+      preview: false
   - name: dashboard
     label: Dashboards
     folder: cms/dashboard
@@ -337,6 +343,8 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+    editor:
+      preview: false
   - name: get_started
     label: Get starteds
     folder: cms/get-started
@@ -382,6 +390,8 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+    editor:
+      preview: false
   - label: Theme Settings
     name: settings
     identifier_field: title
@@ -2210,4 +2220,3 @@ collections:
                 label: Image Alt
                 widget: string
                 required: false
-publish_mode: editorial_workflow
