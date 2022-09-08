@@ -615,9 +615,9 @@ collections:
             label: Text
             name: 1e82e63c
             widget: string
-          - hint: 'Original text: Flexible Hosting Plans For Anyone, key: -5263931e'
+          - hint: 'Original text: Flexible Hosting Plans, key: 330e304f'
             label: Text
-            name: '-5263931e'
+            name: 330e304f
             widget: string
           - hint: 'Original text: Free Forever, key: 7f5e23b3'
             label: Text
@@ -645,11 +645,9 @@ collections:
             label: Text
             name: 25a493ec
             widget: string
-          - hint: >-
-              Original text: • Basic Support (up-to 5 business days reply time),
-              key: -215f1808
+          - hint: 'Original text: • Low Priority Support (email), key: 71078312'
             label: Text
-            name: '-215f1808'
+            name: '71078312'
             widget: string
           - hint: 'Original text: Choose Plan, key: -451a86e'
             label: Text
@@ -674,9 +672,9 @@ collections:
             label: Text
             name: '-6d278234'
             widget: string
-          - hint: 'Original text: Create My Website, key: -7828ac55'
+          - hint: 'Original text: Create Me A Website, key: 31b51bb8'
             label: Text
-            name: '-7828ac55'
+            name: 31b51bb8
             widget: string
           - hint: 'Original text: Standard, key: 521782dd'
             label: Text
@@ -712,13 +710,9 @@ collections:
             label: Text
             name: '-17b6948c'
             widget: string
-          - hint: 'Original text: • Basic Support , key: 2fa329e1'
+          - hint: 'Original text: • Basic Support (email), key: -296a6ecc'
             label: Text
-            name: 2fa329e1
-            widget: string
-          - hint: 'Original text: (up-to 5 business days reply time), key: 3c877657'
-            label: Text
-            name: 3c877657
+            name: '-296a6ecc'
             widget: string
           - hint: 'Original text: Business Pro, key: -1e6605b3'
             label: Text
@@ -748,11 +742,9 @@ collections:
             label: Text
             name: '-653ae5df'
             widget: string
-          - hint: >-
-              Original text: • Account & Communications Specialist, key:
-              -43d32637
+          - hint: 'Original text: • Priority Support (email & Text), key: -5950853b'
             label: Text
-            name: '-43d32637'
+            name: '-5950853b'
             widget: string
           - hint: 'Original text: • Backend Management, key: -20131b3'
             label: Text
@@ -796,6 +788,10 @@ collections:
             label: Text
             name: 386a4874
             widget: string
+          - hint: 'Original text: • Dedicated support Specialist, key: -50a6f48f'
+            label: Text
+            name: '-50a6f48f'
+            widget: string
           - hint: 'Original text: • Digital Marketing support, key: 457e990f'
             label: Text
             name: 457e990f
@@ -827,35 +823,23 @@ collections:
             label: Text
             name: '-4307e485'
             widget: text
-          - hint: 'Original text: Is there a long-term contract?, key: -50d702a7'
+          - hint: 'Original text: What Does Free Hosting Mean?, key: 4ca62f8b'
             label: Text
-            name: '-50d702a7'
+            name: 4ca62f8b
             widget: string
-          - hint: >-
-              Original text: No, we don't force you into any long-term
-              contracts. However, if you want to take advantage of the , key:
-              -5efc2240
+          - hint: "Original text: Hosting\_is kinda like owning a brick and physical store, the server is like the plaza or mall, and your website is how you decorate your store. Paying rent to the plaza or mall is essential because they take care of all your basic needs. Similarly, hosting fees allow the server provider to run maintenance and improve the environment with new features and better service, so your visitors get the best experience. , key: 1ca6bf4"
             label: Text
-            name: '-5efc2240'
+            name: 1ca6bf4
             widget: text
-          - hint: 'Original text: Pro Business, key: -16bfa7ed'
-            label: Text
-            name: '-16bfa7ed'
-            widget: string
-          - hint: 'Original text:  and , key: 1f0b149'
-            label: Text
-            name: 1f0b149
-            widget: string
-          - hint: 'Original text: Enterprise , key: -67d71f41'
-            label: Text
-            name: '-67d71f41'
-            widget: string
           - hint: >-
-              Original text: custom website discount, you must sign a minimum of
-              6 months contract.*, key: -64111271
+              Original text: Fortunately for us, companies like Google, Netlify,
+              and GitHub offer their well maintained, fast, and secure servers
+              completely for free! That means you get all the benefits without
+              the ongoing cost of renting or creating your own servers. You can
+              take advantage of this with the Free Forever plan., key: 4dfd18d5
             label: Text
-            name: '-64111271'
-            widget: string
+            name: 4dfd18d5
+            widget: text
           - hint: 'Original text: Which payments do you accept?, key: 67683551'
             label: Text
             name: '67683551'
@@ -881,14 +865,14 @@ collections:
             widget: string
           - hint: >-
               Original text: Due to the nature of online products and services,
-              you can only get a refund on yearly plans 7 days after making a
-              purchase., key: -787cf8cc
+              you can only get a refunds on hosting services and depending on
+              the hosting provider you choose., key: -4fe1f820
             label: Text
-            name: '-787cf8cc'
+            name: '-4fe1f820'
             widget: text
-          - hint: 'Original text: Let''s Chat!, key: -6ae89150'
+          - hint: 'Original text: Click Me to get started!, key: -319aede1'
             label: Text
-            name: '-6ae89150'
+            name: '-319aede1'
             widget: string
           - hint: >-
               Original text: © Framework Lion. All rights reserved., key:
@@ -1453,6 +1437,10 @@ collections:
             label: Text
             name: 329660ca
             widget: string
+          - hint: 'Original text:  and , key: 1f0b149'
+            label: Text
+            name: 1f0b149
+            widget: string
           - hint: 'Original text: terms of service, key: 4f204da5'
             label: Text
             name: 4f204da5
@@ -1630,6 +1618,10 @@ collections:
             label: Text
             name: '-48fed2'
             widget: string
+          - hint: 'Original text: Pro Business, key: -16bfa7ed'
+            label: Text
+            name: '-16bfa7ed'
+            widget: string
           - hint: 'Original text: For the professionals, key: 398ae206'
             label: Text
             name: 398ae206
@@ -1643,6 +1635,12 @@ collections:
               key: -7e2269c9
             label: Text
             name: '-7e2269c9'
+            widget: string
+          - hint: >-
+              Original text: • Account & Communications Specialist, key:
+              -43d32637
+            label: Text
+            name: '-43d32637'
             widget: string
           - hint: 'Original text: • Unlimited Bi-Weekly Revisions, key: -378b219e'
             label: Text

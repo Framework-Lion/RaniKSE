@@ -3580,6 +3580,10 @@ em {
 }
 
 @media screen and (min-width: 1440px) {
+  .button {
+    text-transform: capitalize;
+  }
+
   .auth-form__heading {
     font-size: 1.5rem;
     line-height: 1.5;
